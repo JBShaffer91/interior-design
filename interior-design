@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>Thoughts About Interior Design</title>
+  <script src="js/scripts.js"></script>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <h1>Thoughts About Interior Design</h1>
+  <h2>Like movies, music, and fashion, interior design has a world of its own</h2>
+
+  <p>On the surface interior design can seem like such a simple thing. That couldn't be farther from the truth. There are so many intricate things to consider and an endlist sea of options to choose from. As Irene Au once said, "Good design is like a refrigerator, when it works no one notices but when it doesn't it stinks."</p>
+
+  <p>Some things to consider first are:</p>
+  <ul>
+    <li>The shape and flow of the room</li>
+    <li>What colors work well together</li>
+    <li>How the shape of the furnature can effect the room(s)</li>
+  </ul>
+  <p>The list can go on and on, but you get the gist. It can be overwhelming.</p>
+  <h3>Then there are different styles to consider!</h3>
+  <p>Like genres of music, design has a list of styles that goes on and on and on...</p>
+  <ul>
+    <li><a href="https://en.wikipedia.org/wiki/Mid-century_modern"></a>Mid Century Monern</li>
+  </ul>
+</body>
+</html>
