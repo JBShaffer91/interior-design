@@ -13,7 +13,7 @@ p {
 }
 
 body {
-  background-color: rgb(224, 185, 133);
+  background-color: rgb(250, 205, 146);
   text-align: center;
 }
 img {
@@ -22,6 +22,18 @@ img {
 .highlight{
   color:rgb(16, 30, 46);
 }
-.headline{
+.headline {
   color:rgb(53, 18, 18);
+}
+.sidebar {
+  width: 17%;
+  float: left;
+  background-color:rgb(250, 166, 57)
+}
+ul {
+  list-style: none;
+}
+.column {
+  width: 300px;
+  float: left;
 }
